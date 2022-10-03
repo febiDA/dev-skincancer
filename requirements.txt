@@ -1,0 +1,16 @@
+certifi
+click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+keras
+MarkupSafe
+numpy
+Pillow
+python-dateutil
+python-dotenv
+tensorflow-cpu
+pytz
+six
+Werkzeug
